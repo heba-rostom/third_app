@@ -9,6 +9,6 @@
 
 <img width="402" height="855" alt="image" src="https://github.com/user-attachments/assets/c9de4f23-3ea1-4b7a-9e70-120296c8fcd1" />
 
-<img width="685" height="857" alt="image" src="https://github.com/user-attachments/assets/11b49138-0463-499d-b517-1bfc1d947bbe" />
+<img width="402" height="853" alt="image" src="https://github.com/user-attachments/assets/28fbd483-522d-48f2-a749-e0ceb189ea2c" />
 
 <img width="400" height="852" alt="image" src="https://github.com/user-attachments/assets/90a649cf-d1f2-4b30-a3b1-3bb2520fc7b8" />
